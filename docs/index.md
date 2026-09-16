@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 312<br>
 **Submission: month, DD, YYYY**<br>
-Spring - 202x<br>
+Fall - 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
-Professor Name<br>
+Dajiang Suo<br>
   
 
 </center>
@@ -26,12 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
+| Kurt Madonian                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| William Pheil                | link |
+| Maxim Taminang Ashu                | link |
 | Name #4                | link |
-
-Testing Testing
-ldsksjflksdjflkjdflks
-laskdjflkjdslkfjsd
-once more
