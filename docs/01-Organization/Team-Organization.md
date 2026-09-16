@@ -6,9 +6,10 @@ tags:
 
 ## Team Charter
 
-> ""
+> “Our mission is to refine and optimize our design by creating a collaborative environment where we can sharpen our engineering skills together. We are committed to making our design improve worker efficiency and safety by demonstrating a thorough engineering process.”
 
-The team came about this team charter ....(add in your words datails on why this is your team's charter)
+Our team gained valuable experience last semester, not only in our engineering skills, but also in project management and documentation. We plan to build on and apply these skills to help streamline the development process and make sure that not only do we deliver a good product, but also document our research to a professional standard. Previously, Sundt has expressed great interest in our pipe inspector concept. We plan to leverage our experience to design a fully functional device that our industry partners can use in a real world construction environment. This would in turn help us gather interest from and friendly relationships with other industry professionals. As a team, we hope to further hone our engineering skills across multiple disciplines such as mechanical engineering, software engineering, and electrical engineering. We expect that this project will serve as a good foundation for future iterations of this robot and become a highlight in our engineering portfolios.
+
 
 ## Product Mission Statement
 
