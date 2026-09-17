@@ -6,5 +6,5 @@ Our audience is Sundt construction who has shown interest in this specific desig
 
 (insert Links to appendix for design process images)
 
-![Hello](Assets/DreamMachine.png)
+![Hello](/Assets/DreamMachine.png)
 ## Design Concepts
