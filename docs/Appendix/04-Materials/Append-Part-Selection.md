@@ -1,4 +1,4 @@
-# Selection and Rationale
+# Part Selection and Rationale
 
 ## Vision System
 
@@ -10,7 +10,7 @@
 
 ### Choice
 
-**OV5640 CAMERA XIAO ESP32S3 SENSE** — upgrade to previously used module
+[**OV5640 CAMERA XIAO ESP32S3 SENSE**](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/114993115/21277047) — upgrade to [previously used module](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991115/18724504)
 
 ### Rationale
 
@@ -29,7 +29,7 @@ The camera provides excellent video resolution and frame rate at a very low cost
 
 ### Choice
 
-**SparkFun ROB-28633 N20 Motor With Encoder**
+[**SparkFun ROB-28633 N20 Motor With Encoder**](https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-28633/26523963)
 
 ### Rationale
 
@@ -47,7 +47,7 @@ The ROB-28633 was selected because its compact N20 form factor makes it well sui
 
 ### Choice
 
-**MicoAir Optical Flow & Range Sensor MTF-02P**
+[**MicoAir Optical Flow & Range Sensor MTF-02P**](https://www.amazon.com/MicoAir-Optical-MTF-02P-Compatible-Ardupilot/dp/B0DM67PB1K)
 
 ### Rationale
 
@@ -65,7 +65,7 @@ The MTF-02P was selected because it combines optical flow and distance measureme
 
 ### Choice
 
-**2.4 GHz Mini RC Tank Chassis**
+[**2.4 GHz Mini RC Tank Chassis**](https://www.amazon.com/2-4GHz-Rotating-Turret-Ultimate-Military/dp/B0D6G82XWM/ref=sr_1_6?crid=1VYBVR3EA2PX9&dib=eyJ2IjoiMSJ9.OJM5_Xao0IyzGW_jRRWdjvUSvdJLoBGJxXR3RYr7zeoT2epLGY-q0SHrv8c4em_vGZyYOqbS2usZCW5CrwC0TDSBQek8LimjynuGk4_GaNC0NErUgB-mOCefmE-UkdsEZBvBtRN1835zMm-ojcNW9rT01hpYw0q3QDOgziHxeTG75OhqbGi5ZfCFM5wP0mifkVFNYycAIT4US7rKStEXepHygCp00y7m3Sy9rgrYPmxywPEa5WSHgqLwdc-ZpHes7tB9G0kYoWNCYCmUcQ_sCAywI28LWdsajvABeB0G6Tc.pvK_RL0quRfn_FfkvnD1E47qTfoTwk7bct1sldSNA60&dib_tag=se&keywords=micro%2Brc%2Btank&qid=1772600293&sprefix=micro%2Brc%2Btank%2Caps%2C196&sr=8-6&th=1)
 
 ### Rationale
 
@@ -83,7 +83,7 @@ The tank chassis was selected because its treads provide better traction and red
 
 ### Choice
 
-**DRV8833PWPR Motor Driver**
+[**DRV8833PWPR Motor Driver**](https://www.digikey.com/en/products/detail/texas-instruments/DRV8833PWPR/2743167?msockid=2aa431d6e20468cc094d263ae36269aa)
 
 ### Rationale
 
