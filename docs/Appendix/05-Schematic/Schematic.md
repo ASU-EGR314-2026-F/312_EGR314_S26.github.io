@@ -1,0 +1,1 @@
+![Schematic](../assets/Pipe_Tank_Schematic.png)
